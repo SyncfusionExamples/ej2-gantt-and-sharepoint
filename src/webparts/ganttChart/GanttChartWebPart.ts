@@ -8,7 +8,7 @@ import { BaseClientSideWebPart } from '@microsoft/sp-webpart-base';
 import { IReadonlyTheme } from '@microsoft/sp-component-base';
 import { escape } from '@microsoft/sp-lodash-subset';
 
-// import Essential JS 2 Grid
+// import Essential JS 2 Gantt
 import { Gantt, Sort } from '@syncfusion/ej2-gantt';
 
 // add Syncfusion Essential JS 2 style reference from node_modules
