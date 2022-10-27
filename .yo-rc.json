@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "ej-2-sharepoint",
+    "libraryId": "65c39112-8e9e-4bdb-8da7-4f4f16255105",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "ej2-sharepoint",
+    "solutionShortDescription": "ej2-sharepoint description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
