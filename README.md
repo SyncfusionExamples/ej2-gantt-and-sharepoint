@@ -36,3 +36,6 @@ Sample for using Gantt Chart in web part of sharepoint page
 - [Use Microsoft Graph in your solution](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/using-microsoft-graph-apis)
 - [Publish SharePoint Framework applications to the Marketplace](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/publish-to-marketplace-overview)
 - [Microsoft 365 Patterns and Practices](https://aka.ms/m365pnp) - Guidance, tooling, samples and open-source controls for your Microsoft 365 development
+
+## Blog reference
+[Using JavaScript Gantt Chart in SharePoint Web Parts for Effective Project Management: Part 1](https://www.syncfusion.com/blogs/post/using-javascript-gantt-chart-in-sharepoint-web-parts-for-effective-project-management-part-1.aspx)
